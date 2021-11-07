@@ -15,9 +15,9 @@ import math
 import pygame as pg
 
 # constants
-WINSIZE = [640, 480]
-WINCENTER = [320, 240]
-NUMSTARS = 150
+WINSIZE = [1920, 1080]
+WINCENTER = [810, 540]
+NUMSTARS = 300
 
 
 def init_star():
